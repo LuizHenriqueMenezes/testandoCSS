@@ -1,0 +1,30 @@
+body { 
+    background-color:gray;
+    font-size:large;
+}
+
+h1 {
+    color:darkred;
+}
+
+p {
+    color:black; 
+}
+
+#zizao {
+    background-color: darkslategrey;
+}
+
+.sheik {
+    text-decoration: underline;
+    color:red;
+}
+
+.negrito {
+    font-weight:bold;
+}
+
+.sheik.negrito {
+    font-size: 25px;
+    background-color: royalblue;
+}
